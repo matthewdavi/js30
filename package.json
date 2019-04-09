@@ -1,0 +1,8 @@
+{
+  "name": "JavaScript30",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wesbos/JavaScript30",
+  "author": "Matthew Davis <maathewdavis@gmail.com>",
+  "license": "MIT"
+}
